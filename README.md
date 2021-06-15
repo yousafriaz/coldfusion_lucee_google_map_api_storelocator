@@ -1,4 +1,6 @@
 # storelocator
+ColdFusion - Javascript - googleMap Api
+
 This Application uses Adobe COLDFUSION 2016 along with Javascript and google map APi 
 original data source is excel file from where it reads data , 
 cfc is located in /cfc/location_cfc
