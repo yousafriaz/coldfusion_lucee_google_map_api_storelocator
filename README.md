@@ -1,4 +1,4 @@
-# coldfusion_lucee_googleapi_storelocator_location_finder_application
+# coldfusion_lucee_google_map_api_storelocator_location_finder_application
 ColdFusion - Javascript - googleMap Api : have not tried this with lucee but i dont see reason why this should not work 
 
 This Application uses Adobe COLDFUSION 2016 along with Javascript and google map APi 
