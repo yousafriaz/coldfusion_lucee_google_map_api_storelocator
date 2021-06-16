@@ -1009,11 +1009,6 @@ function initMap() {
 
 
 
-
-
-
-
-
 }; // end initMap()
 
 
