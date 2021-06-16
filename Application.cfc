@@ -9,15 +9,15 @@ Application to create google mapping application
 <cfcomponent displayname="Application" output="true" hint="Handle the application.">
  
  
-	<!--- Set up the application. --->
-	<cfset THIS.Name = "GoogleMappingApplication" />
-	<cfset THIS.SessionManagement = true />
-    <cfset THIS.ClientManagement = True >
-	<cfset THIS.SetClientCookies = true />
-	<cfset THIS.applicationTimeOut = createTimeSpan(0,2,0,0) >
-    <cfset THIS.sessionTimeOut = createTimeSpan(0,2,0,0) >
-    <cfset THIS.serialization.preserveCaseForStructKey = true />
-    <cfset THIS.serialization.preserveCaseForQueryColumn= true />
+<!--- Set up the application. --->
+<cfset THIS.Name = "GoogleMappingApplication" />
+<cfset THIS.SessionManagement = true />
+<cfset THIS.ClientManagement = True >
+<cfset THIS.SetClientCookies = true />
+<cfset THIS.applicationTimeOut = createTimeSpan(0,2,0,0) >
+<cfset THIS.sessionTimeOut = createTimeSpan(0,2,0,0) >
+<cfset THIS.serialization.preserveCaseForStructKey = true />
+<cfset THIS.serialization.preserveCaseForQueryColumn= true />
 
 <!---    <cfsetting
         requesttimeout="3600"
@@ -69,9 +69,9 @@ Application to create google mapping application
         <cfset request.googlemapkey			="YOUR_API_KEY">
         
     <cfelse>
-		<cfset request.defaultDir 			= "e:\inetpub\wwwroot\googlemap">    
+		<cfset request.defaultDir 		= "e:\inetpub\wwwroot\googlemap">    
         <cfset request.Email 				= "email@gmail.com">
-        <cfset request.googlemapkey_old		="YOUR_API_KEY"> 
+        <cfset request.googlemapkey_old			="YOUR_API_KEY"> 
         <cfset request.googlemapkey			="YOUR_API_KEY"> 
     
     </cfif>
