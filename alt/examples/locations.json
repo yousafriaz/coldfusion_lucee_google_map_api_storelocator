@@ -1,0 +1,228 @@
+{
+    "type": "FeatureCollection",
+    "features": [{
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-78.89508,35.90285
+                    
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "restaurant",
+                "hours": "10am - 6pm",
+                "description": "Modern twists on classic pastries. We're part of a larger chain of patisseries and cafes.",
+                "name": "mcdonald's",
+                "phone": "+19194719669",
+                "storeid": "01"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-78.85010,35.88046
+                    
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "restaurant",
+                "hours": "10am - 6pm",
+                "description": "Come and try our award-winning cakes and pastries. We're part of a larger chain of patisseries and cafes.",
+                "name": "mcdonald's",
+                "phone": "+19194719669",
+                "storeid": "02"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.84530,35.82203
+                    
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "restaurant",
+                "hours": "10am - 6pm",
+                "description": "Whatever the occasion, whether it's a birthday or a wedding, Josie's Patisserie has the perfect treat for you. We're part of a larger chain of patisseries and cafes.",
+                "name": "mcdonald's",
+                "phone": "+19194719669",
+                "storeid": "03"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-78.77062,35.83330
+                    
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "restaurant",
+                "hours": "10am - 6pm",
+                "description": "A gourmet patisserie that will delight your senses. We're part of a larger chain of patisseries and cafes.",
+                "name": "mcdonald's",
+                "phone": "+19194719669",
+                "storeid": "04"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-78.85697,35.84026
+                    
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "cafe",
+                "hours": "10am - 6pm",
+                "description": "Spoil yourself or someone special with our classic pastries. We're part of a larger chain of patisseries and cafes.",
+                "name": "mcdonald's",
+                "phone": "+19194719669",
+                "storeid": "05"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-78.76994,35.83288
+                    
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "restaurant",
+                "hours": "10am - 6pm",
+                "description": "Come and feast your eyes and tastebuds on our delicious pastries and cakes. We're part of a larger chain of patisseries and cafes.",
+                "name": "mcdonald's",
+                "phone": "+19194719669",
+                "storeid": "06"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-78.71295,35.86586
+                    
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "restaurant",
+                "hours": "10am - 6pm",
+                "description": "Josie's Patisserie is family-owned, and our delectable pastries, cakes, and great coffee are renowed. We're part of a larger chain of patisseries and cafes.",
+                "name": "mcdonald's",
+                "phone": "+19194719669",
+                "storeid": "07"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-78.74093,35.79237
+                    
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "restaurant",
+                "hours": "8am - 9:30pm",
+                "description": "Oakham's favorite spot for fresh coffee and delicious cakes. We're part of a larger chain of patisseries and cafes.",
+                "name": "mcdonald's",
+                "phone": "+19194719669",
+                "storeid": "08"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-78.68823,35.78652
+                    
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "cafe",
+                "hours": "8am - 9:30pm",
+                "description": "Enjoy freshly brewed coffe, and home baked cakes in our homely cafe. We're part of a larger chain of patisseries and cafes.",
+                "name": "mcdonald's",
+                "phone": "+19194719669",
+                "storeid": "09"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-79.01947,35.94500
+                    
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "restaurant",
+                "hours": "8am - 9:30pm",
+                "description": "A delicious array of pastries with many flavours, and fresh coffee in an snug cafe. We're part of a larger chain of patisseries and cafes.",
+                "name": "mcdonald's",
+                "phone": "+19194719669",
+                "storeid": "10"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-79.08711,36.05943
+                    
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "cafe",
+                "hours": "8am - 9:30pm",
+                "description": "Grab a freshly brewed coffee, a decadent cake and relax in our idyllic cafe. We're part of a larger chain of patisseries and cafes.",
+                "name": "mcdonald's",
+                "phone": "+19194719669",
+                "storeid": "11"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-79.27422,36.07914
+                    
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "cafe",
+                "hours": "8am - 9:30pm",
+                "description": "Come in and unwind at this idyllic cafe with fresh coffee and home made cakes. We're part of a larger chain of patisseries and cafes.",
+                "name": "mcdonald's",
+                "phone": "+19194719669",
+                "storeid": "12"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-78.90377,36.05472
+                    
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "cafe",
+                "hours": "8am - 9:30pm",
+                "description": "Come in and unwind at this idyllic cafe with fresh coffee and home made cakes. We're part of a larger chain of patisseries and cafes.",
+                "name": "mcdonald's Meef The Great ",
+                "phone": "+19194719669",
+                "storeid": "12"
+            }
+        }
+
+
+    ]
+}

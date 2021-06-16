@@ -1,0 +1,356 @@
+{
+      "type":"FeatureCollection",
+      "features":[
+          
+          {
+          "geometry":{
+              "type":"Point",
+              "coordinates":[
+                  -78.62179,
+                  35.87226
+              ]
+          },
+          "type":"Feature",
+          "properties":{
+             "category":"restaurant",
+              "hours":"10am - 6pm",
+              "description":"Modern twists on classic pastries. We're part of a larger chain of patisseries and cafes.",
+              "name":"Chipotle North Carolina",
+              "phone":"919-922-6662",
+              "storeid":"1",
+              "stateabv":"North Carolina"        
+              }
+          }
+          
+          ,
+          
+          {
+          "geometry":{
+              "type":"Point",
+              "coordinates":[
+                  -78.70659,
+                  35.86614
+              ]
+          },
+          "type":"Feature",
+          "properties":{
+             "category":"restaurant",
+              "hours":"10am - 6pm",
+              "description":"Modern twists on classic pastries. We're part of a larger chain of patisseries and cafes.",
+              "name":"Chipotle Mexican Grill",
+              "phone":"919-941-0059",
+              "storeid":"2",
+              "stateabv":"North Carolina"        
+              }
+          }
+          
+          ,
+          
+          {
+          "geometry":{
+              "type":"Point",
+              "coordinates":[
+                  -93.347877,
+                  44.930810
+              ]
+          },
+          "type":"Feature",
+          "properties":{
+             "category":"restaurant",
+              "hours":"10am - 6pm",
+              "description":"Modern twists on classic pastries. We're part of a larger chain of patisseries and cafes.",
+              "name":"Chipotle North Carolina",
+              "phone":"952-922-1970",
+              "storeid":"3",
+              "stateabv":"Minnesota"        
+              }
+          }
+          
+          ,
+          
+          {
+          "geometry":{
+              "type":"Point",
+              "coordinates":[
+                  -93.29719699999998,
+                  44.9553438
+              ]
+          },
+          "type":"Feature",
+          "properties":{
+             "category":"restaurant",
+              "hours":"10am - 6pm",
+              "description":"Modern twists on classic pastries. We're part of a larger chain of patisseries and cafes.",
+              "name":"Chipotle Minneapolis",
+              "phone":"612-377-6035",
+              "storeid":"4",
+              "stateabv":"Minnesota"        
+              }
+          }
+          
+          ,
+          
+          {
+          "geometry":{
+              "type":"Point",
+              "coordinates":[
+                  -93.380542,
+                  44.983935
+              ]
+          },
+          "type":"Feature",
+          "properties":{
+             "category":"restaurant",
+              "hours":"10am - 6pm",
+              "description":"Modern twists on classic pastries. We're part of a larger chain of patisseries and cafes.",
+              "name":"Chipotle Golden Valley",
+              "phone":"763-544-2530",
+              "storeid":"5",
+              "stateabv":"Minnesota"        
+              }
+          }
+          
+          ,
+          
+          {
+          "geometry":{
+              "type":"Point",
+              "coordinates":[
+                  -93.410158,
+                  44.924363
+              ]
+          },
+          "type":"Feature",
+          "properties":{
+             "category":"resturant",
+              "hours":"10am - 6pm",
+              "description":"Modern twists on classic pastries. We're part of a larger chain of patisseries and cafes.",
+              "name":"Chipotle Hopkins",
+              "phone":"952-935-0044",
+              "storeid":"6",
+              "stateabv":"Minnesota"        
+              }
+          }
+          
+          ,
+          
+          {
+          "geometry":{
+              "type":"Point",
+              "coordinates":[
+                  -78.89508,
+                  35.90285
+              ]
+          },
+          "type":"Feature",
+          "properties":{
+             "category":"restaurant",
+              "hours":"10am - 6pm",
+              "description":"Modern twists on classic pastries. We're part of a larger chain of patisseries and cafes.",
+              "name":"mcdonald's",
+              "phone":"+19194719669",
+              "storeid":"7",
+              "stateabv":"North Carolina"        
+              }
+          }
+          
+          ,
+          
+          {
+          "geometry":{
+              "type":"Point",
+              "coordinates":[
+                  -78.85010,
+                  35.88046
+              ]
+          },
+          "type":"Feature",
+          "properties":{
+             "category":"restaurant",
+              "hours":"10am - 6pm",
+              "description":"Modern twists on classic pastries. We're part of a larger chain of patisseries and cafes.",
+              "name":"mcdonald's",
+              "phone":"+19194719669",
+              "storeid":"8",
+              "stateabv":"North Carolina"        
+              }
+          }
+          
+          ,
+          
+          {
+          "geometry":{
+              "type":"Point",
+              "coordinates":[
+                  -93.270909,
+                  44.97774
+              ]
+          },
+          "type":"Feature",
+          "properties":{
+             "category":"restaurant",
+              "hours":"10am - 6pm",
+              "description":"Modern twists on classic pastries. We're part of a larger chain of patisseries and cafes.",
+              "name":"mcdonald's",
+              "phone":"+19194719669",
+              "storeid":"9",
+              "stateabv":"Minnesota"        
+              }
+          }
+          
+          ,
+          
+          {
+          "geometry":{
+              "type":"Point",
+              "coordinates":[
+                  -78.77062,
+                  35.83330
+              ]
+          },
+          "type":"Feature",
+          "properties":{
+             "category":"cafe",
+              "hours":"10am - 6pm",
+              "description":"Modern twists on classic pastries. We're part of a larger chain of patisseries and cafes.",
+              "name":"mcdonald's",
+              "phone":"+19194719669",
+              "storeid":"10",
+              "stateabv":"North Carolina"        
+              }
+          }
+          
+          ,
+          
+          {
+          "geometry":{
+              "type":"Point",
+              "coordinates":[
+                  -78.85697,
+                  35.84026
+              ]
+          },
+          "type":"Feature",
+          "properties":{
+             "category":"cafe",
+              "hours":"10am - 6pm",
+              "description":"Modern twists on classic pastries. We're part of a larger chain of patisseries and cafes.",
+              "name":"mcdonald's",
+              "phone":"+191947196690",
+              "storeid":"11",
+              "stateabv":"North Carolina"        
+              }
+          }
+          
+          ,
+          
+          {
+          "geometry":{
+              "type":"Point",
+              "coordinates":[
+                  -78.76994,
+                  35.83288
+              ]
+          },
+          "type":"Feature",
+          "properties":{
+             "category":"cafe",
+              "hours":"10am - 6pm",
+              "description":"Modern twists on classic pastries. We're part of a larger chain of patisseries and cafes.",
+              "name":"mcdonald's",
+              "phone":"+19194719669",
+              "storeid":"12",
+              "stateabv":"North Carolina"        
+              }
+          }
+          
+          ,
+          
+          {
+          "geometry":{
+              "type":"Point",
+              "coordinates":[
+                  -79.34441,
+                  43.67842
+              ]
+          },
+          "type":"Feature",
+          "properties":{
+             "category":"cafe",
+              "hours":"10am - 6pm",
+              "description":"Modern twists on classic pastries. We're part of a larger chain of patisseries and cafes.",
+              "name":"Walmart",
+              "phone":"+19194719669",
+              "storeid":"13",
+              "stateabv":"Ontario"        
+              }
+          }
+          
+          ,
+          
+          {
+          "geometry":{
+              "type":"Point",
+              "coordinates":[
+                  -79.25432,
+                  43.84414
+              ]
+          },
+          "type":"Feature",
+          "properties":{
+             "category":"restaurant",
+              "hours":"10am - 6pm",
+              "description":"Modern twists on classic pastries. We're part of a larger chain of patisseries and cafes.",
+              "name":"Walmart",
+              "phone":"+19194719669",
+              "storeid":"14",
+              "stateabv":"Ontario"        
+              }
+          }
+          
+          ,
+          
+          {
+          "geometry":{
+              "type":"Point",
+              "coordinates":[
+                  -79.45601,
+                  43.82117
+              ]
+          },
+          "type":"Feature",
+          "properties":{
+             "category":"cafe",
+              "hours":"10am - 6pm",
+              "description":"Modern twists on classic pastries. We're part of a larger chain of patisseries and cafes.",
+              "name":"Walmart",
+              "phone":"+19194719669",
+              "storeid":"15",
+              "stateabv":"Ontario"        
+              }
+          }
+          
+          ,
+          
+          {
+          "geometry":{
+              "type":"Point",
+              "coordinates":[
+                  -79.19961,
+                  43.81115
+              ]
+          },
+          "type":"Feature",
+          "properties":{
+             "category":"restaurant",
+              "hours":"10am - 6pm",
+              "description":"Modern twists on classic pastries. We're part of a larger chain of patisseries and cafes.",
+              "name":"Walmart",
+              "phone":"+19194719669",
+              "storeid":"16",
+              "stateabv":"Ontario"        
+              }
+          }
+                 
+          ]
+  }
