@@ -8,9 +8,9 @@
         
         <cfquery name="myLocations" dbtype="query" >
         	select 		
-            			id as storeid,
+            		id as storeid,
                         name,
-            			lat,
+            		lat,
                         lng,
                         address + ',' + city + ',' + state + ',' + country + ',' + zip as address,
                         city,
@@ -25,7 +25,8 @@
         </cfquery>
 
     
-<!---		<cfscript>
+<!---	This is Test Query in case you dont want to use Excel abd still want to see this working , then comment cfquery tag above and uncomment cfscript tag
+<cfscript>
         // this needs to be replaced with actual call to cfquery
         myLocations = queryNew("storeid,name,lat,lng,address,city,state,country,zip,phone,category,hours","Integer,Varchar,Varchar,Varchar,Varchar,Varchar,Varchar,Varchar,Varchar,Varchar,Varchar,Varchar", 
         [ 
@@ -60,7 +61,7 @@
         ]); 
             //writeOutput("The new query is:")
             //writeDump(myQuery)
-        </cfscript>
+</cfscript>
 --->    
     	
 
@@ -71,7 +72,7 @@
 
     <cffunction name="myLocationData" access="remote" returnFormat="JSON"  >
     
-		<cfset myQuery = getLocation() >
+	<cfset myQuery = getLocation() >
                 
     	<cfif isdefined("url.storeids") and trim(url.storeids) neq '' >
         	<cfset lst_storeids = reReplace(urldecode(url.storeids), "[[:space:]]", "", "ALL") > 
@@ -97,9 +98,7 @@
             
         </cfquery>
     
-		 <!---<cfif isdefined("url.storeids") and (myQuery.RecordCount GT 3)>
-        
-           
+	<!---<cfif isdefined("url.storeids") and (myQuery.RecordCount GT 3)>
                 Remove all rows beyond 3 (index 3 and
                 greater from the Java stand point).
             
@@ -146,9 +145,9 @@
       	<cfelse>
         
         [
-        	<cfoutput query="myQuery">
+        <cfoutput query="myQuery">
             {lat:#lng# , lng:#lat# },
-        	</cfoutput>
+        </cfoutput>
         ]
         
         
@@ -161,19 +160,12 @@
       </cfsavecontent>
       <!---<cfoutput>#myjson#</cfoutput>--->
     
-    
-    
-    
-    
-    
-    
-    
-    
+
     
         <cfreturn myjson >
     </cffunction>
     
-	<cffunction name="getLocationDetails" access="remote" returntype="query">
+<cffunction name="getLocationDetails" access="remote" returntype="query">
     <cfargument name="storeid" required="no">
 
     	<cfspreadsheet action="read" src="../data/updated_data.xlsx"  query="myCSV" rows="2-83" headerrow="1">
@@ -194,7 +186,7 @@
 
     
     	<cfreturn myLocations>
-    </cffunction>
+</cffunction>
 
 
    <cffunction name="getDistance" access="remote" returntype="any">
@@ -208,10 +200,5 @@
    
    </cffunction> 
     
-    
-    
-    
-    
-    
-</cfcomponent>
-<!---<cffile  action="write" file="#request.defaultDir#\center_locations.json" output="#trim(myjson)#" nameconflict="overwrite"  >--->
+  
+  </cfcomponent>
