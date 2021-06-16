@@ -1,5 +1,5 @@
 # coldfusion_lucee_googleapi_storelocator_location_finder_application
-ColdFusion - Javascript - googleMap Api
+ColdFusion - Javascript - googleMap Api : have not tried this with lucee but i dont see reason why this should not work 
 
 This Application uses Adobe COLDFUSION 2016 along with Javascript and google map APi 
 original data source is excel file from where it reads data , 
@@ -17,19 +17,30 @@ Final Data file is located in /data/exported_excel.xls exported of /alt/examples
 
 Features : 
 Cluster Display,
+
 Reset Map,
+
 Filter by State,
+
 Filter by Country,
+
 Distance Matrix ,
+
 closest Location ,
+
 5 closest location from specific address,
+
 search business by name ,
 
 
 Following google map api services needs to be enabled
 
 Places API	,	
+
 Distance Matrix API	,
+
 Maps JavaScript API		,
+
 Geocoding API	,
+
 Street View Static API,
