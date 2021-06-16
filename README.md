@@ -1,4 +1,4 @@
-# storelocator
+# coldfusion_lucee_googleapi_storelocator_location_finder_application
 ColdFusion - Javascript - googleMap Api
 
 This Application uses Adobe COLDFUSION 2016 along with Javascript and google map APi 
