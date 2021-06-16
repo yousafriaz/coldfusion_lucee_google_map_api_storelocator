@@ -14,3 +14,22 @@ we have recieved data in excel from our business side , which includes name of b
 I have looped around this excel and used /alt/examples/find_place_export_excel.cfm to call google https://maps.googleapis.com/maps/api/place/textsearch/json?query api to get accurate data and make data file off this especially name , lat / lng info instead of relying on business side data .( which was causing issues any way )
 
 Final Data file is located in /data/exported_excel.xls exported of /alt/examples/find_place_export_excel.cfm file . 
+
+Features : 
+Cluster Display
+Reset Map
+Filter by State
+Filter by Country
+Distance Matrix 
+closest Location 
+5 closest location from specific address
+search business by name 
+
+
+Following google map api services needs to be enabled
+
+Places API		
+Distance Matrix API	
+Maps JavaScript API		
+Geocoding API	
+Street View Static API
