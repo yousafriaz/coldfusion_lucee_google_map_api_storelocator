@@ -2,10 +2,6 @@
 ColdFusion - Javascript - googleMap Api : have not tried this with lucee but i dont see reason why this should not work 
 
 
-demo :
-
-https://cfdeploy.sowk.umaryland.edu/mygooglemap/map.cfm
-
 
 This Application uses Adobe COLDFUSION 2016 along with Javascript and google map APi 
 
